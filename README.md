@@ -70,7 +70,8 @@ git push
 
 **Participation answer** (3 sentences): which driver's strategy differed most from the winner's, and what on the chart shows it?
 
->
+> Carlos Sainz's (SAI) strategy at the Dutch Grand Prix differed most from the winner, Oscar Piastri (PIA). They matched on Mediums until roughly lap 23, but then SAI's row shows a Hard stint of around 4-5 laps, followed by Softs to the finish, while PIA stayed on Hards to the end. SAI's row has 5 bars to PIA's 3, the most of any driver across the three races.
+
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
 
