@@ -75,11 +75,11 @@ git push
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
 
->
+> George Russell's (RUS) race trace at the Dutch Grand Prix shows how much the safety cars changed his gap to the winner, Oscar Piastri (PIA). He drifted to roughly 26s behind by lap 49, but after the safety car on lap 53, his line jumps back up to around 5s behind. A plain chart of lap times would hide this, since a few tenths per lap get lost under the 20s pit stops and slow safety car laps, and you can't see the gap adding up lap by lap.
 
 **Bonus** (optional): which race did you add, and why?
 
->
+> I added the Las Vegas Grand Prix 2025 (meeting key 1274) because this was the first F1 race that I watched live on a live stream after learning about F1. I thought it would be interesting to see how the charts would reflect the race as there was a lot of things that happened such as Antonelli climbing from 17th to 3rd place, and Norris/Piastri drropping to the bottom after being disqualified.
 
 ---
 

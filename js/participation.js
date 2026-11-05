@@ -174,9 +174,9 @@ onRaceChange(race => {
 // LINKED HIGHLIGHT (part of the assignment, TODO 12 in assignment.js)
 // ============================================================================
 
-// // TODO 12 (assignment): chart 3 announces the driver under the mouse.
-// // Listen to it and fade the other drivers' bars
-// listen('hoverDriver', driverNumber => {
-//     barsGroup.selectAll('g.stint')
-//         .attr('opacity', d => /* 1 for that driver (and for everyone when driverNumber is null), 0.25 for the others */);
-// });
+// TODO 12 (assignment): chart 3 announces the driver under the mouse.
+// Listen to it and fade the other drivers' bars
+listen('hoverDriver', driverNumber => {
+    barsGroup.selectAll('g.stint')
+        .attr('opacity', d => driverNumber === null || driverNumber === d.driver_number ? 1 : 0.25); /* 1 for that driver (and for everyone when driverNumber is null), 0.25 for the others */
+});

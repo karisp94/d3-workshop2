@@ -19,5 +19,12 @@
     "year": 2025,
     "meeting_key": 1267,
     "file": "races/2025-dutch.json"
+  },
+  {
+    "id": "2025-las-vegas",
+    "label": "Las Vegas Grand Prix 2025",
+    "year": 2025,
+    "meeting_key": 1274,
+    "file": "races/2025-las-vegas.json"
   }
 ]
